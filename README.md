@@ -6,13 +6,34 @@ Java와 Spring Boot를 중심으로 백엔드 시스템을 개발하고 있습�
 
 ## 기술 스택
 
-| 분야 | 기술 |
-| --- | --- |
-| Backend | Java, Spring Boot, Spring Data JPA, Python, FastAPI |
-| Database | PostgreSQL, MySQL, Redis, Flyway |
-| Messaging & Real-time | RabbitMQ, Kafka, WebSocket, WebRTC |
-| Infrastructure | Docker, Jenkins, Nginx, AWS EC2, Git |
-| AI | RAG, FAISS, LangChain |
+**Backend**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+**Database & Messaging**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=flat-square&logo=flyway&logoColor=white)
+
+**DevOps & Infrastructure**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**AI & Real-time**
+
+`RAG` · `FAISS` · `LangChain` · `WebSocket` · `WebRTC`
 
 ## 주요 프로젝트
 
@@ -69,5 +90,4 @@ Python과 Java로 자료구조·알고리즘 문제를 해결하고 풀이를 �
 
 ## 연락처
 
-- **Email:** [ljwljw522@gmail.com](mailto:ljwljw522@gmail.com)
-- **GitHub:** [github.com/NPrawn](https://github.com/NPrawn)
+[![Email](https://img.shields.io/badge/Email-ljwljw522%40gmail.com-444444?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ljwljw522@gmail.com)
